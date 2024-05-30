@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleCounterApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3792b6ac0ed0f80cc1cef4c5a579896bfe99311f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleCounterApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleCounterApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

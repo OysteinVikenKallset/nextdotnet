@@ -482,34 +482,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Øystein\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/oysteinvikenkallset/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programering\\learnCsharpAnddotNet\\SimpleCounter\\api\\SimpleCounterApi.csproj",
+      "projectUniqueName": "/Users/oysteinvikenkallset/Programmering/nextdotnet/nextdotnet/api/SimpleCounterApi.csproj",
       "projectName": "SimpleCounterApi",
-      "projectPath": "C:\\Programering\\learnCsharpAnddotNet\\SimpleCounter\\api\\SimpleCounterApi.csproj",
-      "packagesPath": "C:\\Users\\Øystein\\.nuget\\packages\\",
-      "outputPath": "C:\\Programering\\learnCsharpAnddotNet\\SimpleCounter\\api\\obj\\",
+      "projectPath": "/Users/oysteinvikenkallset/Programmering/nextdotnet/nextdotnet/api/SimpleCounterApi.csproj",
+      "packagesPath": "/Users/oysteinvikenkallset/.nuget/packages/",
+      "outputPath": "/Users/oysteinvikenkallset/Programmering/nextdotnet/nextdotnet/api/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Øystein\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/oysteinvikenkallset/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -561,7 +551,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

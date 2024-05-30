@@ -14,10 +14,16 @@ namespace SimpleCounterApi.Controllers
             return _count;
         }
 
-        [HttpPost]
+        [HttpPost ("increment")]
         public ActionResult<int> IncrementCount()
         {
             _count = _count + 2;
+            return _count;
+        }
+        [HttpPost ("decrement")]
+        public ActionResult<int> DecrementCount()
+        {
+            _count = _count - 1;
             return _count;
         }
     }
